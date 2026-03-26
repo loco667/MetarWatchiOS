@@ -42,6 +42,7 @@ US National Weather Service privacy policy is available here: https://www.weathe
 
 5. Data Sharing
 
+We do not collect personal data.
 We do not sell personal data.
 We do not share your data with data brokers or advertisers.
 
